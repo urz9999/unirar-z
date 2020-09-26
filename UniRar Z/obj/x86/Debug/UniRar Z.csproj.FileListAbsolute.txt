@@ -1,0 +1,9 @@
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\bin\Debug\UniRar Z.exe
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\bin\Debug\UniRar Z.pdb
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\bin\Debug\SharpCompress.dll
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\obj\x86\Debug\UniRar Z.csprojResolveAssemblyReference.cache
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\obj\x86\Debug\UniRar_Z.Form1.resources
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\obj\x86\Debug\UniRar_Z.Properties.Resources.resources
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\obj\x86\Debug\UniRar Z.csproj.GenerateResource.Cache
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\obj\x86\Debug\UniRar Z.exe
+C:\Users\Ultron X\Documents\Visual Studio 2010\Projects\UniRar Z\UniRar Z\obj\x86\Debug\UniRar Z.pdb
